@@ -1,0 +1,21 @@
+{
+    "commands": {
+        "modrinth-add": {
+            "title": "Track Modrinth Mod",
+            "parameters": {
+                "slug": "text"
+            }
+        },
+        "notify": {
+            "title": "Notify Test"
+        },
+        "roblox-add": {
+            "title": "Track Roblox Events",
+            "parameters": {
+                "placeid": "number"
+            }
+        }
+    },
+    "port": 2471,
+    "rblxApiKey": "5SYA1GuCF0S+aAa2EYuh8m3FymK9ERuf21nGZT+0cc9eZBU+ZXlKaGJHY2lPaUpTVXpJMU5pSXNJbXRwWkNJNkluTnBaeTB5TURJeExUQTNMVEV6VkRFNE9qVXhPalE1V2lJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGRXUWlPaUpTYjJKc2IzaEpiblJsY201aGJDSXNJbWx6Y3lJNklrTnNiM1ZrUVhWMGFHVnVkR2xqWVhScGIyNVRaWEoyYVdObElpd2lZbUZ6WlVGd2FVdGxlU0k2SWpWVFdVRXhSM1ZEUmpCVEsyRkJZVEpGV1hWb09HMHpSbmx0U3psRlVuVm1NakZ1UjFwVUt6QmpZemxsV2tKVkt5SXNJbTkzYm1WeVNXUWlPaUkwTVRBeU1qYzNOak1pTENKbGVIQWlPakUzT1RBME5qVXdNalFzSW1saGRDSTZNVGM1TURRMk1UUXlOQ3dpYm1KbUlqb3hOemt3TkRZeE5ESTBmUS5KREpRTkkyQzlHUXZrYnNkR1hCS3hsV1dmUXp5a3l3S3YtY3JiQkhsMzczQ2ZyX3R3eEZWcHdsVFlxU1JDZUhpdGQ3N1RQM2RzVmNsMGJaTXdtSVJnZlEwdkxFRHpSNXYwX0hwRUFoYmtnWVBKang0MlFxUnV2VnVqeFk2aVJ4Ml9xV056amREaEdtVV9yZVJFNFhSZ2hWejlRa0wyczFzZEUxaHpyNDNRa0cxbHVoc3h5Xzl1VEpDajI4LUNvS2EzVVROeFl4YzQ2ejBObmZSWjdFMnJ1dkh1blhmbndaTjBldURWOWotZ2hvZmczN1gtWnRXZHRtT3VtQ3NtQ0RaNHMzQlhtOUstbG1SM2FveDR4cEJicWxrRmJXRkdNanNaMWtUeFY1UEhvejc1ZXgtOVh1TTV5WTNjV3JCLXV6eV9WUjFGT1hzZnV3Y2MyV0xiU2VJZkE="
+}
